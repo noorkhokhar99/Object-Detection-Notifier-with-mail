@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 
 Run the below command with your username and password.
 
-``` python3 person_detector_video.py --to_mail_id  --pwd  --from_mail_id ```
+```  python person_detector_video.py --to_mail_id programmingnet5@gmail.com --pwd idmiltycocmqqqao --from_mail_id pyresearch0@gmail.com ```
 
 
 
