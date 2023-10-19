@@ -15,13 +15,13 @@ wget "http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_co
 Once the tar file gets downloaded, unzip it in the same folder (object_detection_notifier)
 
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
 Run the below command with your username and password.
 
-```  python person_detector_video.py --to_mail_id programmingnet5@gmail.com --pwd idmiltycocmqqqao --from_mail_id pyresearch0@gmail.com ```
+```python person_detector_video.py --to_mail_id programmingnet5@gmail.com --pwd idmiltycocmqqqao --from_mail_id pyresearch0@gmail.com ```
 
 
 
