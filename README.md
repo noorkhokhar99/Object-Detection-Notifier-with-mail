@@ -26,7 +26,6 @@ Run the below command with your username and password.
 # WATCH FULL VIDEO 
 
 
-<p align="center">
 [![Watch the video](https://github.com/noorkhokhar99/Object-Detection-Notifier-with-mail/blob/main/Real-Time%20Object%20Detection%20with%20Computer%20Vision%20%26%20Get%20Notified%20with%20Gmail.png)](https://www.youtube.com/watch?v=Ns0CYUtpKLY)
-</p>
+
 
