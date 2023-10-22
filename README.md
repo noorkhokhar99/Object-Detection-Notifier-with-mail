@@ -23,5 +23,10 @@ Run the below command with your username and password.
 
 ```python person_detector_video.py --to_mail_id programmingnet5@gmail.com --pwd idmiltycocmqqqao --from_mail_id pyresearch0@gmail.com ```
 
+# WATCH FULL VIDEO 
 
+
+<p align="center">
+[![Watch the video](https://github.com/noorkhokhar99/Object-Detection-Notifier-with-mail/blob/main/Real-Time%20Object%20Detection%20with%20Computer%20Vision%20%26%20Get%20Notified%20with%20Gmail.png)](https://www.youtube.com/watch?v=Ns0CYUtpKLY)
+</p>
 
